@@ -2,7 +2,7 @@
 
 # 🎈 OnlySpin Balon Patlat Oyunu
 
-> **OnlySpin Türkiye** resmi giriş adresi: [onlyspin.com.tr](http://onlyspin.com.tr)
+> **OnlySpin Türkiye** resmi giriş adresi: [onlyspin.com.tr](https://onlyspin.com.tr)
 
 ---
 
@@ -18,7 +18,7 @@
 
 **OnlySpin Türkiye** için resmi giriş adresi:
 
-🔗 **[onlyspin.com.tr](http://onlyspin.com.tr)**
+🔗 **[onlyspin.com.tr](https://onlyspin.com.tr)**
 
 > OnlySpin'e erişmek için yukarıdaki resmi bağlantıyı kullanmanızı öneririz.  
 > Alternatif veya üçüncü taraf bağlantılara dikkat edin; **OnlySpin giriş** için her zaman resmi adresi tercih edin.
@@ -79,7 +79,7 @@ cd onlyspin-balon-oyunu/balloon-game
 OnlySpin, yerel pazarda güvenilir bir platform imajı oluşturma çabası içinde olan, Türkiye'ye özel yerli bir oyun markasıdır.
 
 **OnlySpin'e nasıl giriş yapılır?**  
-[onlyspin.com.tr](http://onlyspin.com.tr) adresinden platforma kolayca erişebilirsiniz.
+[onlyspin.com.tr](https://onlyspin.com.tr) adresinden platforma kolayca erişebilirsiniz.
 
 **OnlySpin Türkiye ne zaman kuruldu?**  
 OnlySpin, 2026 yılında Türkiye pazarına giriş yapmıştır.
