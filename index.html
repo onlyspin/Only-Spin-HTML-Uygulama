@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OnlySpin – Balon Patlat!</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div id="bg-stars"></div>
+
+  <header>
+    <div class="logo">🎰 OnlySpin</div>
+    <div class="tagline">Balonları Patlat, Şansını Dene!</div>
+  </header>
+
+  <main>
+    <div id="scoreboard">
+      <div class="stat">
+        <span class="stat-label">SKOR</span>
+        <span class="stat-value" id="score">0</span>
+      </div>
+      <div class="stat">
+        <span class="stat-label">SÜRE</span>
+        <span class="stat-value" id="timer">30</span>
+      </div>
+      <div class="stat">
+        <span class="stat-label">EN YÜKSEk</span>
+        <span class="stat-value" id="highscore">0</span>
+      </div>
+    </div>
+
+    <div id="arena">
+      <div id="overlay">
+        <div id="overlay-content">
+          <h2 id="overlay-title">BALON PATLAT!</h2>
+          <p id="overlay-msg">Balonlara tıklayarak puan topla.<br>30 saniyede ne kadar yapabilirsin?</p>
+          <button id="start-btn">BAŞLA 🎈</button>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <script src="game.js"></script>
+</body>
+</html>
